@@ -49,9 +49,9 @@ async def account_login(bot: Client, m: Message):
        Ashu.START_TEXT, reply_markup=InlineKeyboardMarkup(
             [
                     [
-                    InlineKeyboardButton("✜ ᴀsʜᴜᴛᴏsʜ ɢᴏsᴡᴀᴍɪ 𝟸𝟺 ✜" ,url="https://t.me/AshutoshGoswami24") ],
+                    InlineKeyboardButton("✜ NANI 7 ✜" ,url="https://t.me/Nani@8605") ],
                     [
-                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/AshuSupport") ]                               
+                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/movieplaza77") ]                               
             ]))
 @bot.on_message(filters.command("stop"))
 async def restart_handler(_, m):
